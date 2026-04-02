@@ -15,11 +15,6 @@ Compact CNN for 10-class digit recognition (28×28 grayscale).
 - Data augmentation + SGD (lr=0.003, momentum=0.9)
 - Early stopping, model checkpointing
 
-## Run
-```bash
-pip install tensorflow scikit-learn matplotlib jupyter
-jupyter notebook CNN_MNIST.ipynb
-```
 
 ## Files
 - `CNN_MNIST.ipynb`: Complete training + evaluation
