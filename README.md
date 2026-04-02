@@ -1,4 +1,4 @@
-# CNN_ex12 - MNIST Classification
+# CNN_MNIST - MNIST Classification
 
 Compact CNN for 10-class digit recognition (28×28 grayscale).
 
